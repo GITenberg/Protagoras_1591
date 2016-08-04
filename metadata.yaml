@@ -1,0 +1,49 @@
+_repo: Protagoras_1591
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Jowett, Benjamin
+    alias: Jowett, William
+    birthdate: 1817
+    deathdate: 1893
+    gutenberg_agent_id: '94'
+    url: http://www.gutenberg.org/2009/agents/94
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Jowett
+creator:
+  author:
+    agent_name: Plato
+    alias: Πλάτων
+    birthdate: -428
+    deathdate: -348
+    gutenberg_agent_id: '93'
+    url: http://www.gutenberg.org/2009/agents/93
+    wikipedia: http://en.wikipedia.org/wiki/Plato
+description: In the fifth century BC professional educators, the sophists, travelled
+  the Greek world claiming to teach success in public and private life. In this dialogue
+  Plato shows the pretensions of the leading sophist, Protagoras, challenged by the
+  critical arguments of Socrates. From criticism of the educational aims and methods
+  of the sophists the dialogue broadens out to consider the nature of the good life,
+  and the role of pleasure and intellect in the context of that life. The dialogue
+  combines subtlety of argument with intricacy of dramatic construction and brilliant
+  characterization. This translation achieves both precision and colloquial naturalness,
+  while the notes and introduction set the arguments in their historical and philosophical
+  context.
+gutenberg_issued: '1999-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1591'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcc 'PA'
+- !lcsh 'Sophists (Greek philosophy)'
+- !lcsh 'Socrates, 470 BC-399 BC'
+- !lcsh 'Protagoras'
+- !lcsh 'Classical literature'
+- !lcsh 'Virtue -- Early works to 1800'
+- GITenberg
+title: Protagoras
+url: http://www.gutenberg.org/ebooks/1591
