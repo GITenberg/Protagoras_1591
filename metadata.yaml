@@ -1,5 +1,5 @@
 _repo: Protagoras_1591
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Jowett, Benjamin
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '94'
     url: http://www.gutenberg.org/2009/agents/94
     wikipedia: http://en.wikipedia.org/wiki/Benjamin_Jowett
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Plato
@@ -28,6 +31,8 @@ description: In the fifth century BC professional educators, the sophists, trave
   characterization. This translation achieves both precision and colloquial naturalness,
   while the notes and introduction set the arguments in their historical and philosophical
   context.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1591#Protagoras
 gutenberg_issued: '1999-01-01'
 gutenberg_type: Text
 identifiers:
